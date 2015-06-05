@@ -1,0 +1,18 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\Tachenrechner\Tachenrechner\bin\Debug\Tachenrechner.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\Tachenrechner\Tachenrechner\bin\Debug\Tachenrechner.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Tachenrechner\Tachenrechner\bin\Debug\Tachenrechner.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Tachenrechner\Tachenrechner\obj\Debug\Tachenrechner.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\Tachenrechner\Tachenrechner\obj\Debug\Tachenrechner.Form1.resources
+c:\users\bammouri\documents\visual studio 2013\Projects\Tachenrechner\Tachenrechner\obj\Debug\Tachenrechner.Properties.Resources.resources
+c:\users\bammouri\documents\visual studio 2013\Projects\Tachenrechner\Tachenrechner\obj\Debug\Tachenrechner.csproj.GenerateResource.Cache
+c:\users\bammouri\documents\visual studio 2013\Projects\Tachenrechner\Tachenrechner\obj\Debug\Tachenrechner.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Tachenrechner\Tachenrechner\obj\Debug\Tachenrechner.pdb
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\Tachenrechner 3.6.15\Tachenrechner\bin\Debug\Tachenrechner.exe.config
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\Tachenrechner 3.6.15\Tachenrechner\obj\Debug\Tachenrechner.exe
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\Tachenrechner 3.6.15\Tachenrechner\obj\Debug\Tachenrechner.pdb
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\Tachenrechner 3.6.15\Tachenrechner\bin\Debug\Tachenrechner.exe
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\Tachenrechner 3.6.15\Tachenrechner\bin\Debug\Tachenrechner.pdb
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\Tachenrechner 3.6.15\Tachenrechner\obj\Debug\Tachenrechner.csprojResolveAssemblyReference.cache
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\Tachenrechner 3.6.15\Tachenrechner\obj\Debug\Tachenrechner.Form1.resources
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\Tachenrechner 3.6.15\Tachenrechner\obj\Debug\Tachenrechner.Properties.Resources.resources
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\Tachenrechner 3.6.15\Tachenrechner\obj\Debug\Tachenrechner.csproj.GenerateResource.Cache
